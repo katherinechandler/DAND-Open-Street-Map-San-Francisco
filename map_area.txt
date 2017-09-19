@@ -1,0 +1,7 @@
+Map Area
+
+San Francisco, CA, United States
+
+https://www.openstreetmap.org/relation/111968#map=11/37.8117/-122.3812
+
+San Francisco has been my home for the past 5 years and I was interested to see what the Open Street Map data would reveal about the city. I used the existing Open Street Map Metro Extract for the city of San Francisco (not the San Francisco Bay Area, which is a separate extract).
